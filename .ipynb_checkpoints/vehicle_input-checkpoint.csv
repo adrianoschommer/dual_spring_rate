@@ -1,0 +1,9 @@
+setup;[-];1
+L_wheelbase;[mm];2900
+L_front_track;[mm];1850
+L_rear_track;[mm];1850
+h_cg;[mm];800
+W_total;[kg];970
+W_front_unsprung;[kg];50
+W_rear_unsprung;[kg];60
+rear_mass_distribution;[-];0.71
